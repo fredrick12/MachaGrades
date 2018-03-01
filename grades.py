@@ -1,4 +1,4 @@
-science_grades = [50, 40, 30, 14, 90]
+science_grades = [50, 40, 30, 14, 90, 100, 100, 100, 80]
 science_avg = 0
 for g in science_grades:
   science_avg += g
